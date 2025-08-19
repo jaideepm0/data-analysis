@@ -30,4 +30,4 @@ curl 'http://localhost:8000/api' \
 - The API will return the results of the data analysis tasks in JSON format mentioned in the `questions.txt` file
 
 ## Deployment
-- Currently, the system is deployed to using `ngrok` as found very hard to replicate a full environment with `uv` support and all the core libraries
+- Currently, the system is deployed using `ngrok` as found very hard to replicate a full environment with `uv` support and all dependencies
